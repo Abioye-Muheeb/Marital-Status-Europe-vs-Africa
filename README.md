@@ -18,8 +18,7 @@
 
 ### Project Overview
 
-This project aims to analyze and visualize disparities in marital status and age demographics across selected African and European countries from 1966 to 2011. The study examines trends in marriage, divorce, singlehood, widowhood, and consensual unions, segmented by age groups, sex, and region, to identify patterns and differences over time.
-
+This project seeks to analyze and visualize disparities in marital status and age demographics across specific African and European countries from 1966 to 2011. The study investigates trends in marriage, divorce, singlehood, widowhood, and consensual unions, categorized by age groups, gender, and region, in order to uncover patterns and variations over time.
 
 ![summary marital](https://github.com/user-attachments/assets/2485c22f-fe3d-4363-a3c6-19613cef9627)
 
