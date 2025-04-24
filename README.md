@@ -21,6 +21,12 @@
 This project seeks to analyze and visualize disparities in marital status and age demographics across specific African and European countries from 1966 to 2011. The study investigates trends in marriage, divorce, singlehood, widowhood, and consensual unions, categorized by age groups, gender, and region, in order to uncover patterns and variations over time.
 
 ![summary marital](https://github.com/user-attachments/assets/2485c22f-fe3d-4363-a3c6-19613cef9627)
+![Screenshot 2025-04-24 124004](https://github.com/user-attachments/assets/e9272683-64e1-4bf8-aef4-367958af40b9)
+![Screenshot 2025-04-24 123327](https://github.com/user-attachments/assets/600a6491-c039-4d66-bbbb-5666e7c2ee63)
+![Screenshot 2025-04-24 123410](https://github.com/user-attachments/assets/5be6dc6c-e2a1-4524-960c-94995fbed513)
+
+
+
 
 ### Data Sources
 
